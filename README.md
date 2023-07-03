@@ -1,8 +1,5 @@
-- 👋 Hi, I’m a Forward-thinking iOS Developer with an Information Technology background working effectively in dynamic environments. Fluent in Swift and SwiftUI programming languages used to develop software within the iOS development Industry. Proud team player focused on achieving project objectives with speed and accuracy.
-- 👀 I’m interested in iOS Development and inspire to work in the gaming field
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on Blogging Websites
-- 📫 How to reach me email: TGarayua@gmail.com
+About
+As a committed iOS developer, my focus lies within the realm of Apple's ecosystem, where I excel in constructing resilient and user-friendly applications. By staying abreast of the latest industry trends, I ensure that my skills remain sharp and up-to-date. Occasionally, I take pleasure in sharing my expertise and perspectives through engaging articles, allowing me to contribute valuable insights and experiences to the development community.
 
 <!---
 tgarayua/tgarayua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
